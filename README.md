@@ -1,6 +1,6 @@
 #Some Screenshots of the Application
 
-![image](https://github.com/Yash2121m/Chat_Application/assets/146704810/a022edad-c210-41a1-b952-119310fd7327){ width=50% }
+![image](https://github.com/Yash2121m/Chat_Application/assets/146704810/a022edad-c210-41a1-b952-119310fd7327)
 
 ![image](https://github.com/Yash2121m/Chat_Application/assets/146704810/2d9be893-2b64-44d1-a18c-877a5e7955b6)
 
